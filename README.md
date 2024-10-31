@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python API Automation Framework
 ''' Hybrid custom Framework to Test the REST APIs using the Pytest, Python, and allure Report '''
 
@@ -22,3 +23,7 @@ https://www.toptal.com/developers/gitignore/api/pycharm+all
 
 ### How to run the Basic Test with Allure Report
 pytest tests/tests/crud/test_create_booking.py --alluredir=allure_result -s
+=======
+# APITestingFramework
+API Testing Hybrid Framework for RESTFul booker project
+>>>>>>> cd0d8ed20c2908ea4d6240356423abeec607f9c1
