@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4659f1b0-71e9-4276-9d6c-ae45c4ce25d7" name="Changes" comment="Deleted .env" />
+    <list default="true" id="4659f1b0-71e9-4276-9d6c-ae45c4ce25d7" name="Changes" comment="Deleted .env">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/APITestingFramework" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -31,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.executor": "Run",
-    "Python tests.Python tests for test_crud_better.TestCRUDBooking.test_update_booking_id_token.executor": "Run",
-    "Python tests.Python tests for test_get_bookings.TestGetAllBookingsRequest.test_get_all_bookings_request.executor": "Run",
-    "Python tests.Python tests for test_get_single_booking.Test_Get_Booking.test_get_booking.executor": "Run",
-    "Python tests.Python tests for test_ping_request.TestPingRequest.test_ping_request.executor": "Run",
-    "Python tests.Python tests in test_crud_better.py.executor": "Run",
-    "Python tests.Python tests in test_get_single_booking.py.executor": "Run",
-    "Python.conftest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/padal/PycharmProjects/Py3xAPIAutomationFramework/tests/tests/Integration_tests"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_crud_better.TestCRUDBooking.test_update_booking_id_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_get_bookings.TestGetAllBookingsRequest.test_get_all_bookings_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_get_single_booking.Test_Get_Booking.test_get_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_ping_request.TestPingRequest.test_ping_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_crud_better.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_get_single_booking.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/padal/PycharmProjects/Py3xAPIAutomationFramework/tests/tests/Integration_tests&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\padal\PycharmProjects\Py3xAPIAutomationFramework\tests\tests\Integration_tests" />
